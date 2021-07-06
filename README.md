@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mengssui
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning C++,system，MySQL
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning C++ ,system ,MySQL
+- 💞️ I’m looking for job
 - 📫 How to reach me 1711900861@qq.com
 
 <!---
